@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Core.Domain.Repositories
 {
-    public interface ICateoryRepository
+    public interface ICategoryRepository
     {
         Task<IEnumerable<Category>> ListAsync();
     }

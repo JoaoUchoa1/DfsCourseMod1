@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Core.Persistence.Repositories
 {
-    public class CategoryRepository : BaseRepository, ICateoryRepository
+    public class CategoryRepository : BaseRepository, ICategoryRepository
     {
         public CategoryRepository(AppDbContext context) : base(context) 
         { 

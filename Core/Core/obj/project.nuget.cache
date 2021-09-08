@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "niVuUGhTGKgwhTjwa/8p+6S2cjpCRYslXIGpKvP9oNnO1sXyc8HS2qk+kPXeSeEL6f/RIiSMozILPIgmQTu8bA==",
+  "dgSpecHash": "5Y4CyM1IV0yS9ZjUzOxN8uYdZJVjOQB3UaoR/CE04IrPphXQ40e6mNQwT087xgLIcBTU81tj+NuGo9DWGd/9Qg==",
   "success": true,
   "projectFilePath": "C:\\Users\\joao.uchoa\\Documents\\project\\DfsCourseMod1\\Core\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joao.uchoa\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.9\\microsoft.entityframeworkcore.5.0.9.nupkg.sha512",
     "C:\\Users\\joao.uchoa\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.9\\microsoft.entityframeworkcore.abstractions.5.0.9.nupkg.sha512",
     "C:\\Users\\joao.uchoa\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.9\\microsoft.entityframeworkcore.analyzers.5.0.9.nupkg.sha512",
+    "C:\\Users\\joao.uchoa\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\5.0.9\\microsoft.entityframeworkcore.inmemory.5.0.9.nupkg.sha512",
     "C:\\Users\\joao.uchoa\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.9\\microsoft.entityframeworkcore.relational.5.0.9.nupkg.sha512",
     "C:\\Users\\joao.uchoa\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\joao.uchoa\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",

@@ -27,3 +27,9 @@ C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\obj\Debug\net5.0\C
 C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\obj\Debug\net5.0\ref\Core.dll
 C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\obj\Debug\net5.0\Core.pdb
 C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\obj\Debug\net5.0\Core.genruntimeconfig.cache
+C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
