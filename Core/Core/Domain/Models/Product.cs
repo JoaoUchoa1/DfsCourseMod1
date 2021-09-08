@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Core.Domain.Helpers;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -7,10 +8,10 @@ namespace Core.Domain.Models
 {
     public class Product
     {
-        public int id { get; set; }
+        public int Id { get; set; }
         public string Name { get; set; }
         public string QuantityInPackage { get; set; }
-        public EUnitOfMeasurement EUnitOfMeasurement { get; set; }
+        public EUnitOfMeasurement UnitOfMeasurement { get; set; }
 
         public int CategoryId { get; set; }
         public Category Category { get; set; }
