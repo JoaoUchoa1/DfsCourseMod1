@@ -1,4 +1,5 @@
-﻿using Core.Domain.Models;
+﻿using Core.Communication;
+using Core.Domain.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,5 +10,6 @@ namespace Core.Domain.Services
     public interface ICategoryService
     {
         Task<IEnumerable<Category>> ListAsync();
+        Task<SaveCategoryResponse> SaveAsync(Category category);
     }
 }

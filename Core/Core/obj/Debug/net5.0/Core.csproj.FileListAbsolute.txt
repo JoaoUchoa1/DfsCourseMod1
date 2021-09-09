@@ -7,16 +7,10 @@ C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\bin\Debug\net5.0\C
 C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\bin\Debug\net5.0\Core.dll
 C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\bin\Debug\net5.0\ref\Core.dll
 C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\bin\Debug\net5.0\Core.pdb
-C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
 C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
 C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
 C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
-C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\obj\Debug\net5.0\Core.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\obj\Debug\net5.0\Core.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\obj\Debug\net5.0\staticwebassets\Core.StaticWebAssets.Manifest.cache
 C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\obj\Debug\net5.0\staticwebassets\Core.StaticWebAssets.xml
@@ -33,3 +27,8 @@ C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\bin\Debug\net5.0\M
 C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\bin\Debug\net5.0\Newtonsoft.Json.dll

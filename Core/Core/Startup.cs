@@ -10,6 +10,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using AutoMapper;
 
 
 namespace WebApplication1
@@ -35,7 +36,7 @@ namespace WebApplication1
 
             services.AddScoped<ICategoryRepository, CategoryRepository>();
             services.AddScoped<ICategoryService, CategoryService>();
-            //services.AddAutoMapper();
+            services.AddAutoMapper();
             //services.AddScoped<IUnitOfWork, UnitOfWork>();
 
         }
