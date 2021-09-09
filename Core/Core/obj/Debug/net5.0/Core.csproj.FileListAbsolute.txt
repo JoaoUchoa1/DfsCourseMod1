@@ -32,3 +32,4 @@ C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\bin\Debug\net5.0\A
 C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
 C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\joao.uchoa\Documents\project\DfsCourseMod1\Core\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache

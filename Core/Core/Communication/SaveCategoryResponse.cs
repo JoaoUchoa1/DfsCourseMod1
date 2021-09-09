@@ -18,6 +18,7 @@ namespace Core.Communication
         public SaveCategoryResponse(Category category) : this(true, string.Empty, category) 
         { }
 
-        public SaveCategoryResponse(string message) : this(false, message, null)
+        public SaveCategoryResponse(string message) : this(false, message, null) 
+        { }
     }
 }
