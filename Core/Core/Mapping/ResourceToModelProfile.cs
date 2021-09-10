@@ -13,6 +13,7 @@ namespace Core.Mapping
         public ResouceToModelProfile()
         {
             CreateMap<SaveCategoryResource, Category>();
+            CreateMap<SaveProductResource, Product>();
         }
     }
 }
